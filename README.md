@@ -1,6 +1,6 @@
 # flutter_application_2
 
-A new Flutter project.
+The Learn Flutter project.
 
 ## Getting Started
 
